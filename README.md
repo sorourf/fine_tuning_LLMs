@@ -9,7 +9,7 @@ This repository contains Jupyter notebooks demonstrating the fine-tuning of larg
 - Model: LLaMA (Meta-Llama-3-8B-Instruct)
 - Task: Classifying the sentiment of text as positive, negative, or neutral.
 - Performance Improvement: Approximately 10% increase in accuracy after fine-tuning.
-- Notebook: [Sentiment Analysis Notebook](llama_fine_tuning_sentiment_analysis.ipynb)`
+- Notebook: [Sentiment Analysis Notebook](https://github.com/sorourf/fine_tuning_LLMs/blob/main/Fine_Tune_Llama3_1_8b_SentimentAnalysis.ipynb)
 
 ### Relation Extraction with Phi-3
 
