@@ -16,7 +16,7 @@ This repository contains Jupyter notebooks demonstrating the fine-tuning of larg
 - Model: Phi-3 (microsoft/phi-3)
 - Task: Identifying and extracting relationships between entities in text.
 - Performance Improvement: Approximately 40% increase in F1 score after fine-tuning.
-- Notebook: - [Relation Extraction with Phi-3](phi3_fine_tuning_relation_extraction.ipynb)
+- Notebook: - [Relation Extraction with Phi-3](https://github.com/sorourf/fine_tuning_LLMs/blob/main/Phi3_Fine_Tuning_Relation_Extraction.ipynb)
 ## Getting Started
 
 ### Prerequisites
