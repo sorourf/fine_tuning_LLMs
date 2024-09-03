@@ -9,15 +9,14 @@ This repository contains Jupyter notebooks demonstrating the fine-tuning of larg
 - Model: LLaMA (Meta-Llama-3-8B-Instruct)
 - Task: Classifying the sentiment of text as positive, negative, or neutral.
 - Performance Improvement: Approximately 10% increase in accuracy after fine-tuning.
-- Notebook: `llama_fine_tuning_sentiment_analysis.ipynb`
+- Notebook: [Sentiment Analysis Notebook](llama_fine_tuning_sentiment_analysis.ipynb)`
 
 ### Relation Extraction with Phi-3
 
 - Model: Phi-3 (microsoft/phi-3)
 - Task: Identifying and extracting relationships between entities in text.
 - Performance Improvement: Approximately 40% increase in F1 score after fine-tuning.
-- Notebook: `phi3_fine_tuning_relation_extraction.ipynb`
-
+- Notebook: - [Relation Extraction with Phi-3](phi3_fine_tuning_relation_extraction.ipynb)
 ## Getting Started
 
 ### Prerequisites
